@@ -17,7 +17,7 @@ const Navbar = () => {
           <Link className="nav-link active" aria-current="page" href="/">Add Todo</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" href="#">Display Todo</Link>
+          <Link className="nav-link" href="displayTodos">Display Todo</Link>
         </li>
         
       </ul>
